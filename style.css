@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+img{
+    width: 100vw;
+    display: none;
+
+}
+a{
+    top: 150px;;
+   position: absolute;
+   font-weight: bolder;
+   font-size: 2rem;
+   cursor: pointer;
+   margin: 10px;
+   color: auto;
+}
+
+.pre{
+    left: 0;
+}
+.next{
+    right: 0;
+}
+.hide{
+    display: block;
+}
